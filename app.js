@@ -51,7 +51,7 @@ async function buyBajajFinservStocks(accountNumber) {
         "company": "Bajaj Finserv",
         "currentPrice": bajajFinservPrice,
         "accountNumber": accountNumber, 
-        "githubRepoLink": "https://github.com/" 
+        "githubRepoLink": "https://github.com/Sahil-Kumar7/bajaj-salesforce.git" 
     });
 
     try {
